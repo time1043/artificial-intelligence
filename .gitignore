@@ -1,0 +1,10 @@
+# for macos
+.DS_Store
+
+# for obsidian
+.obsidian/
+*.mp4
+
+# for nodejs
+node_modules/
+dist/
