@@ -8,3 +8,6 @@
 # for nodejs
 node_modules/
 dist/
+
+# for python
+.venv/
